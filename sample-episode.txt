@@ -1,0 +1,51 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: A messenger finds out who opened the floodgate.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. PUMP HOUSE - NIGHT
+Scene start: 00:00.00
+Scene end: 00:40.00
+
+**ACTION:**
+Start: (00:00.00) | End: (00:02.30)
+Nell lunges at the closing floodgate lever and catches it before it locks.
+
+**NELL (Alarmed):**
+Start: (00:02.30) | End: (00:06.10)
+Someone opened the gate. Half the village is still asleep.
+
+**IVO (Shaken):**
+Start: (00:07.00) | End: (00:10.00)
+The foreman took the spare key this morning.
+
+**NELL (Doubtful):**
+Start: (00:11.00) | End: (00:14.00)
+He wouldn't flood his own village.
+
+**ACTION:**
+Start: (00:16.00) | End: (00:19.50)
+Ivo slides a folded evacuation list across the workbench.
+
+**IVO (Urgent):**
+Start: (00:20.00) | End: (00:24.00)
+His family left yesterday. Look who signed the order.
+
+**NELL (Realizing):**
+Start: (00:25.00) | End: (00:28.00)
+That's my father's signature. Why would he do this?
+
+**ACTION:**
+Start: (00:30.00) | End: (00:32.00)
+The lever starts to slip out of Nell's hands.
+
+**IVO (Afraid):**
+Start: (00:33.00) | End: (00:36.00)
+Let me hold it. Go wake the village.
+
+**CAMERA:**
+Start: (00:37.00) | End: (00:40.00)
+Hold on the rising water under the door.
+
+--- SCRIPT END ---
